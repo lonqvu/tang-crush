@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Hương à!',
     introDesc: `Có con mèo be bé
-    Ở dưới gốc cây me
+Ở dưới gốc cây me
     Này cô pé cute
     Ở bên anh iem nhé`,
     btnIntro: 'hihi',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Thương Hương nhiều nhiều 😘😘',
     messDesc: 'Nhắn tin cho anh nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/vu.long.37819/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100009186679811/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
