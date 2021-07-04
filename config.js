@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Hương à!',
     introDesc: `Có con mèo be bé
-        Ở dưới gốc cây me
-        Này cô pé cute
-        Làm người yêu tôi nhé`,
+    Ở dưới gốc cây me
+    Này cô pé cute
+    Ở pên anh iem nhé`,
     btnIntro: 'Hí hí',
     title: 'Một ngày em đến, con tym anh như 1 khúc ca 😌',
     desc: 'Chợt bừng nên tia lắng, xua tán bóng túi hiu quạnh lơi con tym lày ',
