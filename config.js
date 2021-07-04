@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Hương à!',
     introDesc: `Có con mèo be bé
-Ở dưới gốc cây me
+    Ở dưới gốc cây me
     Này cô pé cute
     Ở bên anh iem nhé`,
     btnIntro: 'hihi',
